@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+*.dmg
+*.exe
+.DS_Store
