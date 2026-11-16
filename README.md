@@ -8,12 +8,12 @@ Choose your platform below. Installers are published under Releases, rather than
 
 | الجهاز / Platform | التنزيل / Download |
 | --- | --- |
-| Mac بمعالج Apple silicon / Apple silicon Mac | [تنزيل ملف DMG / Download DMG](https://github.com/Moeen-System/Downloads/releases/download/v0.24.0-beta.1/Moeen_0.24.0-beta.1_aarch64.dmg) |
-| Windows x64 | [تنزيل ملف التثبيت / Download installer](https://github.com/Moeen-System/Downloads/releases/download/v0.24.0-beta.1/Moeen_0.24.0-beta.1_x64-setup.exe) |
+| Mac بمعالج Apple silicon / Apple silicon Mac | [تنزيل ملف DMG / Download DMG](https://github.com/Moeen-System/Downloads/releases/download/v0.31.1-beta.1/Moeen_0.31.1-beta.1_aarch64.dmg) |
+| Windows x64 | [تنزيل ملف التثبيت / Download installer](https://github.com/Moeen-System/Downloads/releases/download/v0.31.1-beta.1/Moeen_0.31.1-beta.1_x64-setup.exe) |
 
-الإصدار المتاح للتنزيل: **0.24.0-beta.1**.
+الإصدار المتاح للتنزيل: **0.31.1-beta.1**.
 
-Available installer version: **0.24.0-beta.1**.
+Available installer version: **0.31.1-beta.1**.
 
 [جميع الإصدارات وملاحظات التثبيت / All releases and installation notes](https://github.com/Moeen-System/Downloads/releases)
 
